@@ -17,9 +17,11 @@ It is a multi-agent courtroom simulation powered by Large Language Models (LLMs)
 │   ├── v0.0/                         # Explanation about each version's speciality is given at the start of it
 │   ├── v1.0/
 │   ├── v2.0/
-│   └── v2.5/
+│   ├── v2.5/
+│   └── v3.0/
 ├── data.csv                          # CSV file containing case descriptions
 ├── README.md                         # This file
+
 
 
 ## Setup:

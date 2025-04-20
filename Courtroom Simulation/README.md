@@ -12,15 +12,20 @@ It is a multi-agent courtroom simulation powered by Large Language Models (LLMs)
 
 
 ## Project Structure:
+<pre>
+```
 .
-├── Iterations/                       # Folder containing different versions of notebooks (.ipynb) of the Simulator
-│   ├── v0.0/                         # Explanation about each version’s speciality is given at the start of it
-│   ├── v1.0/
-│   ├── v2.0/
-│   ├── v2.5/
-│   └── v3.0/
-├── data.csv                          # CSV file containing case descriptions
-├── README.md                         # This file
+├── Iterations/                       # Folder containing different versions of notebooks (.ipynb) of the Simulator  
+│   ├── v0.0/                         # Explanation about each version’s speciality is given at the start of it  
+│   ├── v1.0/  
+│   ├── v2.0/  
+│   ├── v2.5/  
+│   └── v3.0/  
+├── data.csv                          # CSV file containing case descriptions  
+├── README.md                         # This file  
+```
+</pre>
+
 
 
 

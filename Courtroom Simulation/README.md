@@ -109,10 +109,3 @@ PLAINTIFF RESPONSE:
 	•	Add new roles: Use `create_agent()` to add any role at any time.
 	•	Change trial flow: The flexible controller loop allows for custom branching, looping, or skipping of phases.
 	•	Modify agent prompts: Change system prompts to experiment with different agent behaviors.
-Troubleshooting
-	•	Dictionary output after responses?
-Don’t print the return value of `run_phase`. Just call it directly.
-	•	Not enough responses?
-Make sure your prompts dictionary includes all present agents for each phase.
-	•	API errors?
-Ensure your Groq API key is correct and you have internet connectivity.

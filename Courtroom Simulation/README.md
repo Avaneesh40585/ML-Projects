@@ -103,7 +103,7 @@ After each phase, agent responses are analyzed for cues (e.g., “recall witness
 ---
 
 ## Example Output
-
+…
 ==== Phase 1: Opening Statements ====
 PROSECUTION RESPONSE: Prosecution’s formal opening statement…
 DEFENSE RESPONSE: Defense’s formal opening statement…

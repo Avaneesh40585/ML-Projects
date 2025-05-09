@@ -15,9 +15,11 @@ I put together this set of AI projects as a way to dive deeper into real-world a
 
 ## Projects Covered
 
-| Project Name        | Description                                                                                                                      | Link                                  |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| Courtroom Simulation | A multi-agent courtroom simulation using LLMs, featuring autonomous roles and dynamic, realistic trial scenarios with real cases. | [Courtroom Simulator](./courtroom-simulator) |
+| Project Name         | Domain | Description                                                                                                                        | Link                                          |
+|----------------------|--------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Courtroom Simulation  | LLMs   | A multi-agent courtroom simulation using LLMs, featuring autonomous roles and dynamic, realistic trial scenarios with real cases.  | [Courtroom Simulator](./Courtroom-Simulation)  |
+
+
 
 
 

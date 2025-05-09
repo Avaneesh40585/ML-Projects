@@ -1,5 +1,5 @@
 # AI-Projects
-I put together this set of AI projects as a way to dive deeper into real-world applications — if you’re into learning by doing, you might find something useful here.
+I put together this set of AI projects as a way to dive deeper into real-world applications of artificial intelligence. Each project tackles a practical use case — whether it’s natural language processing, computer vision, or decision-making systems — with the goal of learning by doing. If you’re exploring AI and prefer building things over just reading about them, there’s a good chance you’ll find something useful (or at least interesting) here. Contributions and ideas are always welcome!
 
 ![AI projects](https://github.com/user-attachments/assets/5e685c14-4d53-4f91-8dd9-0e8733b3046c)
 
@@ -12,6 +12,12 @@ I put together this set of AI projects as a way to dive deeper into real-world a
 | **Computer Vision**        | Techniques for interpreting and understanding images and videos.    |
 | **Natural Language Processing** | Methods for analyzing and generating human language.         |
 | **Large Language Models**  | Advanced models for context-aware text generation and understanding.|
+
+## Projects Covered
+
+| Project Name        | Description                                                                                                                      | Link                                  |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| Courtroom Simulation | A multi-agent courtroom simulation using LLMs, featuring autonomous roles and dynamic, realistic trial scenarios with real cases. | [Courtroom Simulator](./courtroom-simulator) |
 
 
 

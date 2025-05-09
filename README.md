@@ -10,20 +10,6 @@ Welcome to my AI Projects Collection! This repository brings together a diverse 
 | **Computer Vision**        | Techniques for interpreting and understanding images and videos.    |
 | **Natural Language Processing** | Methods for analyzing and generating human language.         |
 | **Large Language Models**  | Advanced models for context-aware text generation and understanding.|
+![AI projects](https://github.com/user-attachments/assets/5e685c14-4d53-4f91-8dd9-0e8733b3046c)
 
-## Domains Covered
 
-- **Machine Learning:**  
-  Algorithms that learn from data to make predictions or decisions.
-
-- **Deep Learning:**  
-  Neural networks that extract complex patterns from large datasets.
-
-- **Computer Vision:**  
-  Techniques for interpreting and understanding images and videos.
-
-- **Natural Language Processing:**  
-  Methods for analyzing and generating human language.
-
-- **Large Language Models:**  
-  Advanced models for context-aware text generation and understanding.

@@ -1,4 +1,4 @@
-# Courtroom Simulation v2.5
+# Courtroom Simulator
 It is a multi-agent courtroom simulation powered by Large Language Models (LLMs) via the Groq API. The system simulates realistic trials with autonomous agents—Judge, Defense Lawyer, Defendant, Prosecution Lawyer, Plaintiff (for civil cases), and more—using real-world case data. Each run randomly selects a case from your dataset and proceeds through all major trial phases, with dynamic agent management and a flexible, evolving trial structure.
 
 ## Features:
@@ -11,33 +11,15 @@ It is a multi-agent courtroom simulation powered by Large Language Models (LLMs)
 	•	Extensible: Easily add new roles, phases, or modify trial flow.
 
 
-## Project Structure:
-<pre>
-```
-.
-├── Iterations/                       # Folder containing different versions of notebooks (.ipynb) of the Simulator  
-│   ├── v0.0/                         # Explanation about each version’s speciality is given at the start of it  
-│   ├── v1.0/  
-│   ├── v2.0/  
-│   ├── v2.5/  
-│   └── v3.0/  
-├── data.csv                          # CSV file containing case descriptions  
-├── README.md                         # This file  
-```
-</pre>
-
-
-
-
 ## Setup:
-1. Install Dependencies
+1. Install Dependencies:
 pip install groq pandas
 
-2. Prepare Your Data
+2. Prepare Your Data:
 	•	Place a `data.csv` file in the project directory.
 	•	The first row should be a header (e.g., `case`).
 	•	Each subsequent row should be a case description (text).
-3. Set Your Groq API Key
+3. Set Your Groq API Key:
 	•	Option 1 (for quick testing):
 Edit the script and replace the `api_key` string with your Groq API key.
 	•	Option 2 (recommended for production):

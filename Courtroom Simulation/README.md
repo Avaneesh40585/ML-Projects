@@ -2,6 +2,8 @@
 
 A multi-agent courtroom simulation powered by Large Language Models (LLMs) via the Groq API. The system simulates realistic trials with autonomous agents-Judge, Defense Lawyer, Defendant, Prosecution Lawyer, Plaintiff (for civil cases), and more-using real-world case data. Each run randomly selects a case from your dataset and proceeds through all major trial phases, with dynamic agent management and a flexible, evolving trial structure.
 
+![Courtroom-ghibli-style](https://github.com/user-attachments/assets/a2fbb86a-10f6-40c9-93f0-bd773664e784)
+
 ---
 
 ## Features

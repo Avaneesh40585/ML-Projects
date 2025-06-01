@@ -5,19 +5,19 @@ I put together this set of AI projects as a way to dive deeper into real-world a
 
 ## Domains Covered
 
-| Domain                     | Description                                                         |
-|----------------------------|---------------------------------------------------------------------|
-| **Machine Learning**       | Algorithms that learn from data to make predictions or decisions.   |
-| **Deep Learning**          | Neural networks that extract complex patterns from large datasets.  |
-| **Computer Vision**        | Techniques for interpreting and understanding images and videos.    |
-| **Natural Language Processing** | Methods for analyzing and generating human language.         |
-| **Large Language Models**  | Advanced models for context-aware text generation and understanding.|
+| Domain                        | Description                                                                                 |
+|-------------------------------|--------------------------------------------------------------------------------------------|
+| **Machine Learning**          | Algorithms and statistical models—including deep learning neural networks—that enable systems to automatically learn patterns, extract complex features, and make predictions or decisions from data, often improving performance with experience and minimal explicit programming. |
+| **Computer Vision**           | Techniques and models that allow computers to interpret, analyze, and understand visual information from images and videos, enabling tasks like object detection, image classification, and scene understanding. |
+| **Natural Language Processing** | Methods and algorithms for enabling computers to understand, interpret, generate, and interact using human language in both text and speech forms, supporting applications such as translation, summarization, and conversational AI. |
+| **Reinforcement Learning**    | A learning paradigm where agents autonomously learn optimal actions through trial-and-error interactions with an environment, guided by feedback in the form of rewards or penalties to maximize cumulative success. |
+
 
 ## Projects Covered
 
 | Project Name         | Domain | Description                                                                                                                        | Link                                          |
 |----------------------|--------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| Courtroom Simulation  | LLMs   | 		Simulates realistic courtroom trials with autonomous LLM agents-like judge, lawyers, and parties-using real case data, dynamic agent roles, and flexible trial phases via the Groq API.  | [Courtroom Simulation](./Courtroom%20Simulation)  |
+| Courtroom Simulation  | NLP   | 		Simulates realistic courtroom trials with autonomous LLM agents-like judge, lawyers, and parties-using real case data, dynamic agent roles, and flexible trial phases via the Groq API.  | [Courtroom Simulation](./Courtroom%20Simulation)  |
 
 
 

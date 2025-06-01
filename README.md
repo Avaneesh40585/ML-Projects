@@ -7,10 +7,9 @@ I put together this set of AI projects as a way to dive deeper into real-world a
 
 | Domain                        | Description                                                                                 |
 |-------------------------------|--------------------------------------------------------------------------------------------|
-| **Machine Learning**          | Algorithms and statistical models—including deep learning neural networks—that enable systems to automatically learn patterns, extract complex features, and make predictions or decisions from data, often improving performance with experience and minimal explicit programming. |
-| **Computer Vision**           | Techniques and models that allow computers to interpret, analyze, and understand visual information from images and videos, enabling tasks like object detection, image classification, and scene understanding. |
-| **Natural Language Processing** | Methods and algorithms for enabling computers to understand, interpret, generate, and interact using human language in both text and speech forms, supporting applications such as translation, summarization, and conversational AI. |
-| **Reinforcement Learning**    | A learning paradigm where agents autonomously learn optimal actions through trial-and-error interactions with an environment, guided by feedback in the form of rewards or penalties to maximize cumulative success. |
+| **Machine Learning**          | Algorithms and models that enable systems to learn from data, identify patterns, and make predictions or decisions—covering supervised, unsupervised, reinforcement learning, and deep learning. |
+| **Natural Language Processing** | Techniques that allow computers to understand, interpret, and generate human language in text and speech, powering chatbots, translation, and sentiment analysis. |
+| **Computer Vision**           | Methods that enable machines to interpret and analyze visual information from images and videos, supporting applications like object detection, facial recognition, and medical imaging. |
 
 
 ## Projects Covered

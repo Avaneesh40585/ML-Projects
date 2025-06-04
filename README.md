@@ -16,7 +16,7 @@ I put together this set of AI projects as a way to dive deeper into real-world a
 
 | Project Name         | Domain | Description                                                                                                                        | Link                                          |
 |----------------------|--------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| Courtroom Simulation  | NLP   | 		Simulates realistic courtroom trials with autonomous LLM agents-like judge, lawyers, and parties-using real case data, dynamic agent roles, and flexible trial phases via the Groq API.  | [Courtroom Simulation](./Courtroom%20Simulation)  |
+| Courtroom Simulation  | NLP   | 		Simulates realistic courtroom trials with autonomous LLM agents-like judge, lawyers, and parties-using real case data, dynamic agent roles, and flexible trial phases via the Groq API.  | [Courtroom Simulation](https://github.com/Avaneesh40585/Courtroom-Simulation)  |
 
 
 

@@ -16,7 +16,7 @@ I put together this set of AI projects as a way to dive deeper into real-world a
 
 | Project Name         | Domain | Description                                                                                                                        | Repo Link                                     |
 |----------------------|--------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| Image Captioning System | Computer Vision + NLP | Advanced image captioning system using Transformer architecture that generates natural language descriptions for images. Combines EfficientNetB0 CNN for visual feature extraction with custom Transformer encoder-decoder for text generation. | [Image Captioning](https://github.com/Avaneesh40585/Image-Captioning) |
+| Image Captioning System | CV + NLP | Advanced image captioning system using Transformer architecture that generates natural language descriptions for images. Combines EfficientNetB0 CNN for visual feature extraction with custom Transformer encoder-decoder for text generation. | [Image Captioning](https://github.com/Avaneesh40585/Image-Captioning) |
 | Courtroom Simulation  | NLP   | 		Simulates realistic courtroom trials with autonomous LLM agents-like judge, lawyers, and parties-using real case data, dynamic agent roles, and flexible trial phases via the Groq API.  | [Courtroom Simulation](https://github.com/Avaneesh40585/Courtroom-Simulation)  |
 
 

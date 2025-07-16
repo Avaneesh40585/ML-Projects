@@ -3,7 +3,8 @@ I put together this set of machine learning projects as a way to dive deeper int
 
 ![ML projects](https://github.com/user-attachments/assets/5e685c14-4d53-4f91-8dd9-0e8733b3046c)
 
-## Domains Covered
+---
+## Domains Covered 🌐
 
 ### Machine Learning Approaches
 
@@ -19,8 +20,9 @@ I put together this set of machine learning projects as a way to dive deeper int
 | **Computer Vision** | Neural networks with multiple layers specifically designed for visual data processing, enabling advanced image recognition, object detection, semantic segmentation, and generative visual content creation. |
 | **Natural Language Processing** | Deep neural architectures like transformers, BERT, and GPT models that process and generate human language, powering advanced chatbots, language translation, text summarization, and content generation. |
 
+---
 
-## Projects Covered
+## Projects Covered 🗂️
 
 | Project Name         | Domain | Description                                                                                                                        | Repo Link                                     |
 |----------------------|--------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|

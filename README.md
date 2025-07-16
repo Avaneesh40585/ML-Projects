@@ -24,9 +24,11 @@ I put together this set of machine learning projects as a way to dive deeper int
 
 ## Projects Covered 🗂️
 
-| Project Name         | Domain | Description                                                                                                                        | Repo Link                                     |
-|----------------------|--------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| Image Captioning System | CV + NLP | Advanced image captioning system using Transformer architecture that generates natural language descriptions for images. Combines EfficientNetB0 CNN for visual feature extraction with custom Transformer encoder-decoder for text generation. | [Image Captioning](https://github.com/Avaneesh40585/Image-Captioning) |
+| Project Name              | Domain   | Description                                                                                                                                                                                                           | Repo Link                                              |
+|--------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Image Captioning System   | CV + NLP | Advanced image captioning system using Transformer architecture that generates natural language descriptions for images. Combines EfficientNetB0 CNN for visual feature extraction with custom Transformer encoder-decoder for text generation. | [Image Captioning](https://github.com/Avaneesh40585/Image-Captioning) |
+| Digit Recognition         | CV       | Deep learning-based handwritten digit recognition on the MNIST dataset using PyTorch. Employs a modern CNN architecture with data augmentation, batch normalization, dropout, and early stopping for robust and accurate classification.   | [Digit Recognition](https://github.com/Avaneesh40585/Digit-Recognition) |
+
 
 
 

@@ -28,8 +28,9 @@ I put together this set of machine learning projects as a way to dive deeper int
 |---------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Image Captioning System](https://github.com/Avaneesh40585/Image-Captioning) | CV + NLP | Image captioning system using Transformer architecture that generates natural language descriptions for images. Combines EfficientNetB0 CNN for visual feature extraction with custom Transformer encoder-decoder for text generation. |
 | [Digit Recognition](https://github.com/Avaneesh40585/Digit-Recognition) | CV | Deep learning-based handwritten digit recognition on the MNIST dataset using PyTorch. Employs a modern CNN architecture with data augmentation, batch normalization, dropout, and early stopping for robust and accurate classification. |
-| [Email Classification with BERT](https://github.com/Avaneesh40585/Email-Spam-Classification) | NLP | Email spam detection system using BERT transformers with DistilBERT architecture. Features 5-fold cross-validation, differential learning rates, robust preprocessing, and production-ready inference with 97%+ accuracy. |
+| [Email Classification with BERT & RoBERTa](https://github.com/Avaneesh40585/Email-Spam-Classification) | NLP | Advanced email spam detection system featuring both BERT (DistilBERT) and optimized RoBERTa implementations. RoBERTa version includes anti-overfitting techniques (layer freezing, progressive dropout, early stopping), smart model detection, and achieves 99.48% accuracy with production-ready inference capabilities. |
 | [CIFAR-10 Image Classification with ViT](https://github.com/Avaneesh40585/CIFAR10-Classification) | CV | Multi-class image classification using Vision Transformer (ViT) architecture. Features Hugging Face transformers, mixed precision training, gradient accumulation, and production-ready inference for accurate CIFAR-10 classification. |
+
 
 
 

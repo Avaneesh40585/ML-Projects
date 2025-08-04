@@ -29,6 +29,7 @@ I put together this set of machine learning projects as a way to dive deeper int
 | [Digit Recognition](https://github.com/Avaneesh40585/Digit-Recognition) | CV | Deep learning-based handwritten digit recognition on the MNIST dataset using PyTorch. Employs a modern CNN architecture with data augmentation, batch normalization, dropout, and early stopping for robust and accurate classification. |
 | [Email Classification with BERT & RoBERTa](https://github.com/Avaneesh40585/Email-Spam-Classification) | NLP | Advanced email spam detection system featuring both BERT (DistilBERT) and optimized RoBERTa implementations. RoBERTa version includes anti-overfitting techniques (layer freezing, progressive dropout, early stopping), smart model detection, and achieves 99.48% accuracy with production-ready inference capabilities. |
 | [CIFAR-10 Image Classification with ViT](https://github.com/Avaneesh40585/CIFAR10-Classification) | CV | Advanced Vision Transformer implementation that achieves 97.50% CIFAR-10 accuracy with minimal overfitting (2.07% gap) through strategic regularization. Features real-time inference, custom image uploads, confidence analysis, and demonstrates effective fine-tuning of pre-trained transformers for small datasets.|
+| [Flickr8k Dataset](https://github.com/Avaneesh40585/Flickr8k-Dataset) | Dataset | A repository providing the complete Flickr8k dataset, conveniently packaged for easy download and use in image captioning and multimodal research. Includes 8,092 images and corresponding text annotations with predefined data splits.|
 
 
 

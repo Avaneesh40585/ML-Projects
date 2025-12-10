@@ -1,35 +1,16 @@
 # ML-Projects
-I put together this set of machine learning projects as a way to dive deeper into real-world applications of data science and intelligent systems. Each project tackles a practical use case — whether it’s statistical learning, deep learning specializations, or reinforcement learning — with the goal of learning by doing. If you’re exploring ML and prefer building models over just reading about them, there’s a good chance you’ll find something useful (or at least interesting) here. Contributions and ideas are always welcome!
-
-![ML projects](https://github.com/user-attachments/assets/5e685c14-4d53-4f91-8dd9-0e8733b3046c)
-
----
-## Domains Covered 🌐
-
-### Machine Learning Approaches
-
-| Domain                        | Description                                                                                 |
-|-------------------------------|--------------------------------------------------------------------------------------------|
-| **Statistical Learning (Traditional ML)** | Classical machine learning approaches including supervised learning (classification, regression) and unsupervised learning (clustering, dimensionality reduction) using statistical methods and algorithms like SVM, random forests, and k-means clustering. |
-| **Reinforcement Learning**    | Learning paradigm where agents learn optimal actions through interaction with an environment via rewards and penalties, enabling applications in game playing, robotics, autonomous systems, and sequential decision-making. |
-
-### Deep Learning Specializations
-
-| Domain                        | Description                                                                                 |
-|-------------------------------|--------------------------------------------------------------------------------------------|
-| **Computer Vision** | Neural networks with multiple layers specifically designed for visual data processing, enabling advanced image recognition, object detection, semantic segmentation, and generative visual content creation. |
-| **Natural Language Processing** | Deep neural architectures like transformers, BERT, and GPT models that process and generate human language, powering advanced chatbots, language translation, text summarization, and content generation. |
+Here is a collection of projects I built while experimenting with existing models and libraries, sometimes building them completely from scratch. Since these are learning projects, they might not be perfect—better to check twice before using them! Contributions and ideas are always welcome.
 
 ---
 
-## Projects Covered 🗂️
+## Projects Covered
 
-| Project | Domain   | Description |
-|---------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Digit Recognition](https://github.com/Avaneesh40585/Digit-Recognition) | CV | Deep learning-based handwritten digit recognition on the MNIST dataset using PyTorch. Employs a modern CNN architecture with data augmentation, batch normalization, dropout, and early stopping for robust and accurate classification. |
-| [Email Classification with BERT & RoBERTa](https://github.com/Avaneesh40585/Email-Spam-Classification) | NLP | Advanced email spam detection system featuring both BERT (DistilBERT) and optimized RoBERTa implementations. RoBERTa version includes anti-overfitting techniques (layer freezing, progressive dropout, early stopping), smart model detection, and achieves 99.48% accuracy with production-ready inference capabilities. |
-| [CIFAR-10 Image Classification with ViT](https://github.com/Avaneesh40585/CIFAR10-Classification) | CV | Advanced Vision Transformer implementation that achieves 97.50% CIFAR-10 accuracy with minimal overfitting (2.07% gap) through strategic regularization. Features real-time inference, custom image uploads, confidence analysis, and demonstrates effective fine-tuning of pre-trained transformers for small datasets.|
-| [Flickr8k Dataset](https://github.com/Avaneesh40585/Flickr8k-Dataset) | Dataset | A repository providing the complete Flickr8k dataset, conveniently packaged for easy download and use in image captioning and multimodal research. Includes 8,092 images and corresponding text annotations with predefined data splits.|
+| Project | Domain | Description |
+| :--- | :--- | :--- |
+| [Digit Recognition](https://github.com/Avaneesh40585/Digit-Recognition) | CV | A PyTorch implementation of handwritten digit recognition on MNIST. Demonstrates a full training pipeline using a custom CNN architecture with data augmentation and regularization techniques. |
+| [Email Classification with BERT & RoBERTa](https://github.com/Avaneesh40585/Email-Spam-Classification) | NLP | An email spam detection system comparing DistilBERT and RoBERTa models. Focuses on fine-tuning strategies like layer freezing and progressive dropout to optimize transformer performance. |
+| [CIFAR-10 Image Classification with ViT](https://github.com/Avaneesh40585/CIFAR10-Classification) | CV | A Vision Transformer (ViT) implementation fine-tuned for CIFAR-10. Highlights techniques for regularizing transformers on smaller datasets and includes a script for custom image inference. |
+| [Flickr8k Dataset](https://github.com/Avaneesh40585/Flickr8k-Dataset) | Multimodal | An organized distribution of the Flickr8k dataset containing images and text annotations. Structured for easy integration into image captioning and multimodal research projects. |
 
 
 
